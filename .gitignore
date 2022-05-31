@@ -12,3 +12,7 @@ Main.hs
 TAGS
 stack*.yaml.lock
 .vscode
+
+.direnv
+.dir-locals.el
+cabal.project.local
